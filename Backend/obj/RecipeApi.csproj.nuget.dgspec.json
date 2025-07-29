@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\backend\\RecipeApi.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\RecipeMeal\\backend\\RecipeApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\backend\\RecipeApi.csproj": {
+    "C:\\Users\\Asus\\Desktop\\RecipeMeal\\backend\\RecipeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\backend\\RecipeApi.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\RecipeMeal\\backend\\RecipeApi.csproj",
         "projectName": "RecipeApi",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\backend\\RecipeApi.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\RecipeMeal\\backend\\RecipeApi.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\backend\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\RecipeMeal\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
